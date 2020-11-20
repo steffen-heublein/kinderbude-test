@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://steffen-heublein.github.io/kinderbude-test/sitemap.xml
