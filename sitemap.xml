@@ -50,14 +50,10 @@
 </url>
 <url>
 <loc>https://steffen-heublein.github.io/kinderbude-test/die-kartoffel/</loc>
-<lastmod>2020-11-20T22:36:41+01:00</lastmod>
+<lastmod>2021-05-04T19:21:00+02:00</lastmod>
 <image:image>
 <image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/20/kartoffel2.jpg</image:loc>
 <image:title><![CDATA[mehrere Eimer voller Kartoffeln]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/20/gallery/kartoffeln6-thumbnail.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/20/gallery/kartoffel5-thumbnail.jpg</image:loc>
@@ -68,25 +64,25 @@
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/20/gallery/kartoffel3-thumbnail.jpg</image:loc>
+<image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/20/gallery/kartoffeln6-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/20/gallery/kartoffeln-thumbnail.jpg</image:loc>
+<image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/20/gallery/kartoffel3-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/20/gallery/kartoffel2-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://steffen-heublein.github.io/kinderbude-test/elternabend/</loc>
-<lastmod>2020-11-20T22:27:07+01:00</lastmod>
+<image:image>
+<image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/20/gallery/kartoffeln-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://steffen-heublein.github.io/kinderbude-test/im-wald/</loc>
-<lastmod>2020-11-20T22:35:45+01:00</lastmod>
+<lastmod>2021-05-04T19:22:48+02:00</lastmod>
 <image:image>
 <image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/12/Wald1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -126,17 +122,17 @@
 </url>
 <url>
 <loc>https://steffen-heublein.github.io/kinderbude-test/kontakt/</loc>
-<lastmod>2021-02-20T11:38:16+01:00</lastmod>
+<lastmod>2021-05-04T19:18:05+02:00</lastmod>
 </url>
 <url>
 <loc>https://steffen-heublein.github.io/kinderbude-test/wie-wir-arbeiten-and-was-wir-machen/</loc>
-<lastmod>2021-05-03T19:41:55+02:00</lastmod>
+<lastmod>2021-05-04T19:32:09+02:00</lastmod>
 <image:image>
 <image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/21/Kinderbude_0377.jpg</image:loc>
 <image:title><![CDATA[Blick in den Speiseraum]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file:///home/steffen/Dokumente/Publii/sites/kinderbude-simple/input/media/posts/17/aquarium.jpg</image:loc>
+<image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/21/aquarium.jpg</image:loc>
 <image:title><![CDATA[Aquarium]]></image:title>
 </image:image>
 <image:image>
@@ -144,8 +140,8 @@
 <image:title><![CDATA[Eine Reihe von Zahnputzbechern und Bürsten]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file:///home/steffen/Dokumente/Publii/sites/kinderbude-simple/input/media/posts/17/buffet_ok-gross-300x119.jpg</image:loc>
-<image:title><![CDATA[Logo von buffet ok]]></image:title>
+<image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/21/buffet_ok-gross-300x119.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://steffen-heublein.github.io/kinderbude-test/media/posts/21/lkw.jpg</image:loc>
